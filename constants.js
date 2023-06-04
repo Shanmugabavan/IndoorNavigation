@@ -1,0 +1,12 @@
+export const screenNames = {
+  NAVIGATION_HOME_SCREEN: 'NavigationHomeScreen',
+  HOME_SCREEN: 'Home',
+  LOCATION_SCREEN: 'Location',
+  LOCATION_SELECT_SCREEN: 'LocationSelect',
+  DATA_COLLECTION_SCREEN: 'DataCollectionScreen',
+  IMU_SCREEN:'IMU',
+  HOME_SCREEN1:'Home1',
+  HOME: 'NewHome',
+  WIFISCREEN: 'WIFISCREEN',
+  NAVIGATION_HOME_SCREEN2:'NAVIGATION_HOME_SCREEN2'
+};
